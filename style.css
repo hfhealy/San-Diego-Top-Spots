@@ -1,12 +1,9 @@
 table {
     border: black 2px solid; 
 }
-thead {
-    border: red 2px solid;
-}
 th {
     border: blue 2px solid;
 }
-tr {
+td {
     border: orange 2px solid;
 } 
